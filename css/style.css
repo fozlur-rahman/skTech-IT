@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.first-carousel-item {
+  background-image: url(../images/cover/cover-1.png);
+}
+.carousel-item {
+  height: 83vh;
+  background-position: center-top;
+  background-size: cover;
+}
+.second-carousel-item {
+  background-image: url(../images/cover/cover-2.jpg);
+
+}
+.third-carousel-item {
+  background-image: url(../images/cover/cover-3.jpg);
+}
+.carousel-overly {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.550);
+}
