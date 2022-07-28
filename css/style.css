@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-span{
+span {
   color: #289bde;
 }
 .btn {
@@ -18,18 +18,17 @@ span{
   color: #289bde;
   transition: 0.5s;
 }
-
+/* nav-bar  */
 .nav-btn {
   background: none;
   border: 2px solid #289bde;
   color: #289bde;
   transition: 0.5s;
-  
 }
 .nav-btn:hover {
   background: #289bde;
   transition: 0.5s;
-  color: white!important;
+  color: white !important;
 }
 
 /* carusel  */
@@ -55,25 +54,31 @@ span{
 .course-item {
   height: 200px;
 }
-/* carusel  */
+
 
 /* courses section  */
-.course-price{
+.course-price {
   color: #289bde;
 }
-/* courses section  */
 
-/* register-section */
-.register-section{
+
+/* register section */
+.register-section {
   background: #289bde;
 }
-.register-btn{
+.register-btn {
   color: #289bde;
 }
-/* register-section */
 
-/* asked-questions  */
-.asked-questions{
-  width: 60%;
+
+/* asked questions section */
+.asked-questions {
+  width: 70%;
 }
-/* asked-questions  */
+
+
+/* trusted company section  */
+.comapny-images img {
+  width: 120px;
+  height: 25px;
+}
