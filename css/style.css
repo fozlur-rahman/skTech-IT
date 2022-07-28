@@ -91,10 +91,14 @@ span {
 }
 .footer-list li a {
   text-decoration: none;
-  color: whitesmoke;
+  color: rgb(161, 160, 160);
   font-size: 15px;
+  line-height: 28px;
 }
-
+.social-icons a{
+  background:none;
+  color: white;
+}
 .fa-brands {
   background: rgb(31, 30, 30);
 }
