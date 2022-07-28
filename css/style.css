@@ -22,3 +22,6 @@ body {
   height: 100%;
   background: rgba(0, 0, 0, 0.550);
 }
+.course-item{
+  height: 200px;
+}
