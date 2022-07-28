@@ -1,4 +1,6 @@
 @media only screen and (max-width:767px){
+
+    /* courses section  */
     .course-item-img{
         width: 100%;
         height: 300px;
@@ -6,4 +8,19 @@
     .course-details{
         padding: 20px 0;
     }
+    /* courses section  */
+
+    /* register section  */
+    .register-text{
+        width: 100%!important;
+        text-align: center;
+        padding-left: 0!important;
+    }
+    .register-modal{
+        width: 100%!important;
+        display: flex;
+        justify-content: center!important;
+        padding-right: 0!important;
+    }
+    /* register section  */
 }
