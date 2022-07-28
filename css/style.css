@@ -82,3 +82,18 @@ span {
   width: 120px;
   height: 25px;
 }
+
+/* footer section  */
+.footer-list{
+  list-style: none;
+  
+}
+.footer-list li a {
+  text-decoration: none; 
+  color: whitesmoke;
+  font-size: 15px;
+}
+
+.fa-brands{
+  background: rgb(31, 30, 30);
+}
